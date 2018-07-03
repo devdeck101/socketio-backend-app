@@ -1,0 +1,15 @@
+{
+  "name": "socketio-backend-app",
+  "version": "1.0.0",
+  "description": "React + Express + Socket.io",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Developer Deck 101",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.3",
+    "socket.io": "^2.1.1"
+  }
+}
