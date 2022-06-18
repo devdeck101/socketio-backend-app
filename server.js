@@ -8,7 +8,7 @@ const app = express()
 
 const server = http.createServer(app)
 
-//create the socket using the service instance
+//create the socket using the service instance 
 const io = socketIO(server)
 
 io.on('connection', socket => {
